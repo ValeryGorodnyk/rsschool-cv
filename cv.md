@@ -6,7 +6,7 @@
 * __E-mail:__ gorodastudio@gmail.com
 * __Discord:__ [valerygorodnyk](https://discordapp.com/users/1116318462537633852/)
 * __GitHub:__ [ValeryGorodnyk](https://github.com/ValeryGorodnyk)
-* __Telegram:__ [@Gorodastudio] (https://t.me/Gorodastudio)
+* __Telegram:__ [Gorodastudio] (https://t.me/Gorodastudio)
 
 ## About Me:
 I am 36 years old and I work as a video editor. I think my work is very interesting, but I want to develop in the direction of front-end development. I think in this area I can also be useful.
