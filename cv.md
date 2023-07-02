@@ -2,7 +2,7 @@
 
 ## Contact Information:
 * __Phone:__ +37377833990
-* __Address:__ [Moldovа, Tiraspol][Тег1]
+* __Address:__ Moldovа, [Tiraspol][Тег1]
 * __E-mail:__ gorodastudio@gmail.com
 * __Discord:__ valerygorodnyk
 * __GitHub:__ ValeryGorodnyk
